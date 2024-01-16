@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mathias-Bonal, a PhD student in applied microbiology at the Université Libre de Bruxelles, Brussels, Belgium.
+- 👋 Hi, I’m @Mathias-Bonal, PhD in applied microbiology at Université Libre de Bruxelles, Brussels, Belgium.
 - 👀 I’m interested in microbial interactions networks and modeling.
 - 📫 How to reach me: mathias.bonal@ulb.be as well as by searching my name on ResearchGate
 
